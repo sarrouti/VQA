@@ -9,13 +9,9 @@ The proposed visual question answering is based on the variational auto-encoders
 
 ## Requirements
 gensim==3.0.0
-
 nltk==3.4.5
-
 numpy==1.12.1
-
 Pillow==6.2.0
-
 progressbar2==3.34.3
 h5py==2.8.0
 torch==0.4.0      
@@ -23,6 +19,10 @@ torchvision==0.2.0
 torchtext==0.2.3
 jupyter==1.0.0
 
+install Python requirements:
+```
+pip install -r requirements.txt
+```
 ## Downloads and Setup
 Once you clone this repo, run the vocab.py, store_dataset.py, train.py and evaluate.py file to process the dataset, to train and evaluate the model.
 ```shell
