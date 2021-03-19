@@ -29,13 +29,14 @@ $ python evaluate_vqa.py
 ```
 
 If you are using this repository or a part of it, please cite our paper:
-
+```
 @inproceedings{sarrouti2020nlm,
   title={NLM at VQA-Med 2020: Visual question answering and generation in the medical domain},
   author={Sarrouti, Mourad},
   year={2020},
   organization={CLEF}
 }
+```
 
 ## Contact
 For more information, please contact me on sarrouti.mourad[at]gmail.com.
