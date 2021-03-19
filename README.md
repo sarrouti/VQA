@@ -17,7 +17,7 @@ h5py==2.8.0\
 torch==0.4.0\      
 torchvision==0.2.0\
 torchtext==0.2.3\
-jupyter==1.0.0\
+jupyter==1.0.0
 
 install Python requirements:
 ```
