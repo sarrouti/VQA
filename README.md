@@ -14,7 +14,7 @@ numpy==1.12.1\
 Pillow==6.2.0\
 progressbar2==3.34.3\
 h5py==2.8.0\
-torch==0.4.0\  
+torch==0.4.0\
 torchvision==0.2.0\
 torchtext==0.2.3\
 jupyter==1.0.0
