@@ -31,7 +31,7 @@ $ python store_dataset.py
 $ python train_vqa.py
 $ python evaluate_vqa.py
 ```
-
+## Citation
 If you are using this repository or a part of it, please cite our paper:
 ```
 @inproceedings{sarrouti2020nlm,
