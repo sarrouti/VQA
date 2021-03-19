@@ -8,10 +8,10 @@ The proposed visual question answering is based on the variational auto-encoders
 ![VQGR model](https://github.com/sarrouti/VQA/blob/master/vqa_ve-1.jpg)
 
 ## Requirements
-gensim==3.0.0
-nltk==3.4.5
-numpy==1.12.1
-Pillow==6.2.0
+gensim==3.0.0\
+nltk==3.4.5\
+numpy==1.12.1\
+Pillow==6.2.0\
 progressbar2==3.34.3
 h5py==2.8.0
 torch==0.4.0      
